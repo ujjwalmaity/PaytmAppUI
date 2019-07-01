@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/bottom_navigation_item_title_1" />
+
+    <item
+        android:id="@+id/nav_mall"
+        android:icon="@drawable/ic_local_mall"
+        android:title="@string/bottom_navigation_item_title_2" />
+
+    <item
+        android:id="@+id/nav_bank"
+        android:icon="@drawable/ic_account_balance"
+        android:title="@string/bottom_navigation_item_title_3" />
+
+</menu>
