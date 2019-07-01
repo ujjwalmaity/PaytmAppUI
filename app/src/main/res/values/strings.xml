@@ -4,4 +4,20 @@
     <string name="bottom_navigation_item_title_1">Home</string>
     <string name="bottom_navigation_item_title_2">Mall</string>
     <string name="bottom_navigation_item_title_3">Bank</string>
+
+    <string name="drawer_navigation_item_title_1">My Orders</string>
+    <string name="drawer_navigation_item_title_2">My Passbook</string>
+    <string name="drawer_navigation_item_title_3">Payment Remainder</string>
+    <string name="drawer_navigation_item_title_4">My Credit Score</string>
+    <string name="drawer_navigation_item_title_5">My Favourite Stores</string>
+    <string name="drawer_navigation_item_title_6">My Loyalty Cards</string>
+
+    <string name="drawer_navigation_header_text_view_text_1">Ujjwal Maity</string>
+    <string name="drawer_navigation_header_text_view_text_2">9564557783</string>
+    <string name="drawer_navigation_header_image_contentDescription_1">Profile Photo</string>
+    <string name="drawer_navigation_header_image_contentDescription_2">OR Code</string>
+    <string name="drawer_navigation_header_image_contentDescription_3">Arrow</string>
+
+    <string name="navigation_drawer_open">Open Drawer Navigation</string>
+    <string name="navigation_drawer_close">Close Drawer Navigation</string>
 </resources>
