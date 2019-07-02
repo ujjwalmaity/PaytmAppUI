@@ -20,4 +20,12 @@
 
     <string name="navigation_drawer_open">Open Drawer Navigation</string>
     <string name="navigation_drawer_close">Close Drawer Navigation</string>
+
+    <string name="fragment_bank_text_1">Login to Paytm Payments Bank</string>
+    <string name="fragment_bank_text_2">Bank Saving Account</string>
+    <string name="fragment_bank_text_3">Registered Mobile Number</string>
+    <string name="fragment_bank_text_4">+91 9564557783</string>
+    <string name="fragment_bank_text_5">Enter Password</string>
+    <string name="fragment_bank_text_6">Login Securely</string>
+    <string name="fragment_bank_text_7">Forgot Passcode?</string>
 </resources>
