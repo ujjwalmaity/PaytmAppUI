@@ -43,9 +43,12 @@
     <string name="fragment_home_text_11">Food Delivery</string>
     <string name="fragment_home_text_12">More</string>
     <string name="fragment_home_text_13">Pay</string>
-    <string name="fragment_home_text_14">Money Transfer</string>
+    <string name="fragment_home_text_14">UPI Money\nTransfer</string>
     <string name="fragment_home_text_15">Passbook</string>
-    <string name="fragment_home_text_16">Paytm Postpaid</string>
+    <string name="fragment_home_text_16">Paytm\nPostpaid</string>
+    <string name="fragment_home_text_17">Add Money</string>
+    <string name="fragment_home_text_18">Favourite\nStores</string>
+    <string name="fragment_home_text_19">Accept\nPayment</string>
 
     <string name="fragment_mall_text_1">Top Shopping Offers</string>
 </resources>
