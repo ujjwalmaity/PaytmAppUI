@@ -46,4 +46,6 @@
     <string name="fragment_home_text_14">Money Transfer</string>
     <string name="fragment_home_text_15">Passbook</string>
     <string name="fragment_home_text_16">Paytm Postpaid</string>
+
+    <string name="fragment_mall_text_1">Top Shopping Offers</string>
 </resources>
