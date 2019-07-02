@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PaytmUIClone</string>
+    <string name="app_name">Paytm App UI</string>
 
     <string name="bottom_navigation_item_title_1">Home</string>
     <string name="bottom_navigation_item_title_2">Mall</string>
