@@ -12,8 +12,8 @@
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
         android:layout_gravity="center"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         app:cardCornerRadius="12dp">
 
         <LinearLayout
@@ -30,7 +30,7 @@
                 android:fontFamily="serif"
                 android:text="@string/fragment_bank_text_1"
                 android:textColor="@color/black"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -39,7 +39,7 @@
                 android:fontFamily="serif"
                 android:text="@string/fragment_bank_text_2"
                 android:textColor="@color/black"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:textStyle="bold" />
 
             <TextView

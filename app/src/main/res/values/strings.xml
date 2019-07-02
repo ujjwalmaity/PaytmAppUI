@@ -28,4 +28,22 @@
     <string name="fragment_bank_text_5">Enter Password</string>
     <string name="fragment_bank_text_6">Login Securely</string>
     <string name="fragment_bank_text_7">Forgot Passcode?</string>
+
+    <string name="fragment_home_text_0">Watches, Sungalsses at Flat 50% Cashback</string>
+    <string name="fragment_home_text_1">Movie Tickets</string>
+    <string name="fragment_home_text_2">Mobile\nPrepaid</string>
+    <string name="fragment_home_text_3">Electricity</string>
+    <string name="fragment_home_text_4">Google Play</string>
+    <string name="fragment_home_text_5">Vir Das</string>
+    <string name="fragment_home_text_6">Freebies\nInside</string>
+    <string name="fragment_home_text_7">Train Tickets</string>
+    <string name="fragment_home_text_8">Mobile\nPostpaid</string>
+    <string name="fragment_home_text_9">Cable Tv</string>
+    <string name="fragment_home_text_10">Toys and Kinds\nFashion</string>
+    <string name="fragment_home_text_11">Food Delivery</string>
+    <string name="fragment_home_text_12">More</string>
+    <string name="fragment_home_text_13">Pay</string>
+    <string name="fragment_home_text_14">Money Transfer</string>
+    <string name="fragment_home_text_15">Passbook</string>
+    <string name="fragment_home_text_16">Paytm Postpaid</string>
 </resources>
